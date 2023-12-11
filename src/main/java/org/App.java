@@ -1,13 +1,8 @@
 package org;
-
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!"abcd ef );
+        System.out.println( "Hello World!" );
     }
 }
